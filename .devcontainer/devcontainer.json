@@ -3,7 +3,7 @@
 {
 	"name": "NIST",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "lovelbrian/nist-image:latest"
+	"image": "lovellbrian/nist20.04.3:latest"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
